@@ -1,3 +1,5 @@
+CSS3中transition的使用，文章地址：[http://www.xiabingbao.com/css/2015/01/06/css3-transition](http://www.xiabingbao.com/css/2015/01/06/css3-transition/)
+
 ```html
 
 <!DOCTYPE html>
